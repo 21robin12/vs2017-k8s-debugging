@@ -6,7 +6,7 @@ Mostly from this article: https://medium.com/@pavel.agarkov/debugging-asp-net-co
 
 ### Building & pushing the image
 
-*Already done, see https://hub.docker.com/r/21robin12/debugging/*
+*Already done, see https://hub.docker.com/r/21robin12/debugging. Still need to build locally before debugging.* 
 
 ```
 dotnet publish -c Debug
